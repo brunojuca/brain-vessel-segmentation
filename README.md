@@ -106,4 +106,6 @@ Após a segmentação, o script exibe um `classification_report` com métricas c
 
 ## 📍 Dataset
 
-As imagens e máscaras vêm do dataset DIAS (Digital Intracranial Angiogram Segmentation).
+As imagens e máscaras vêm do dataset DIAS (DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences).
+
+Liu W, Tian T, Wang L, Xu W, Li L, Li H, Zhao W, Tian S, Pan X, Deng Y, Gao F, Yang H, Wang X, Su R. DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences. Med Image Anal. 2024 Oct;97:103247. doi: 10.1016/j.media.2024.103247. Epub 2024 Jun 18. PMID: 38941857.
