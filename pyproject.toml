@@ -1,0 +1,15 @@
+[project]
+name = "brain-vessel-segmentation"
+version = "0.1.0"
+description = "Segmentação de vasos sanguíneos de angiogramas"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "opencv-python>=4.12.0.88",
+    "scikit-image>=0.25.2",
+    "scikit-learn>=1.7.1",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "tqdm>=4.67.1",
+]
