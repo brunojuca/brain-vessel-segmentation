@@ -4,8 +4,8 @@ Este projeto aplica técnicas de aprendizado de máquina para realizar a **segme
 
 O código está dividido em dois scripts principais:
 
-- [`scripts/train.py`](scripts/train_rf.py): treinamento do modelo Random Forest.
-- [`scripts/test.py`](scripts/test_rf.py): avaliação e geração das segmentações a partir do modelo treinado.
+- [`scripts/train_rd.py`](scripts/train_rf.py): treinamento do modelo Random Forest.
+- [`scripts/test_rf.py`](scripts/test_rf.py): avaliação e geração das segmentações a partir do modelo treinado.
 
 ## 📂 Estrutura esperada de diretórios
 
